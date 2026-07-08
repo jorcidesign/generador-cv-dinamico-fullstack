@@ -1,0 +1,90 @@
+{
+  "personal": {
+    "name": "Nombre Apellido",
+    "titles": {
+      "frontend": "Desarrollador Frontend",
+      "backend": "Desarrollador Backend",
+      "fullstack": "Desarrollador Full Stack"
+    },
+    "email": "correo@ejemplo.com",
+    "phone": "+51 999 999 999",
+    "location": "Ciudad, País",
+    "github": "github.com/usuario"
+  },
+  "profiles": {
+    "frontend": "Perfil profesional enfocado en Frontend. Experiencia en desarrollo web moderno.",
+    "backend": "Perfil profesional enfocado en Backend. Experiencia en APIs y bases de datos.",
+    "fullstack": "Perfil profesional completo. Dominio de tecnologías del lado del cliente y servidor."
+  },
+  "skills": {
+    "frontend": {
+      "label": "Frontend",
+      "items": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "TypeScript",
+        "React"
+      ]
+    },
+    "backend": {
+      "label": "Backend",
+      "items": [
+        "Python",
+        "FastAPI",
+        "SQLAlchemy",
+        "PostgreSQL"
+      ]
+    },
+    "tools": {
+      "label": "Herramientas & QA",
+      "items": [
+        "Git",
+        "Docker",
+        "Figma"
+      ]
+    }
+  },
+  "experience": [
+    {
+      "company": "Compañía Ejemplo S.A.",
+      "role": "Desarrollador de Software",
+      "period": "Ene 2024 – Presente",
+      "bullets": [
+        "Logro importante número uno en el puesto.",
+        "Responsabilidad clave o tecnología implementada."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Proyecto de Ejemplo",
+      "url": "github.com/usuario/proyecto-ejemplo",
+      "description": "Una breve descripción de lo que hace este proyecto y las tecnologías utilizadas.",
+      "tags": ["frontend", "fullstack"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad de Ejemplo",
+      "degree": "Ingeniería de Sistemas",
+      "period": "2019 – 2024"
+    }
+  ],
+  "languages": [
+    {
+      "name": "Inglés",
+      "level": "Intermedio"
+    }
+  ],
+  "competencies": [
+    "Resolución de problemas",
+    "Trabajo en equipo",
+    "Comunicación asertiva"
+  ],
+  "interests": [
+    "Desarrollo Web",
+    "Lectura",
+    "Videojuegos"
+  ]
+}

@@ -1,6 +1,9 @@
 .venv/
 __pycache__/
 *.pyc
-output/
+output/*
+!output/.gitkeep
 inputs/*
 !inputs/.gitkeep
+!inputs/cv_data.example.json
+
